@@ -6,6 +6,9 @@ public/css/app.css
 .env
 
 
+# Local AI assistant context (not part of the project)
+CLAUDE.md
+
 # Logs / editor / OS noise
 *.log
 .vscode/
